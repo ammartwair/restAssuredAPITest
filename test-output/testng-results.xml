@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-16T08:10:59Z" name="Default suite" finished-at="2023-08-16T08:11:10Z" duration-ms="10269">
+    <groups>
+    </groups>
+    <test started-at="2023-08-16T08:10:59Z" name="Default test" finished-at="2023-08-16T08:11:10Z" duration-ms="10269">
+      <class name="restAssured.NewTest">
+        <test-method signature="testAPIRequestAndValidation()[pri:0, instance:restAssured.NewTest@6eb2384f]" started-at="2023-08-16T11:10:59Z" name="testAPIRequestAndValidation" finished-at="2023-08-16T11:11:10Z" duration-ms="10145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAPIRequestAndValidation -->
+      </class> <!-- restAssured.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
